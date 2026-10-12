@@ -1,0 +1,693 @@
+.s0 {
+  fill: url(#g1);
+}
+.s1 {
+  opacity: 0.6;
+  mix-blend-mode: overlay;
+  fill: url(#g2);
+}
+.s2 {
+  opacity: 0.6;
+  mix-blend-mode: overlay;
+  fill: url(#g3);
+}
+.s3 {
+  opacity: 0.6;
+  mix-blend-mode: overlay;
+  fill: url(#g4);
+}
+.s4 {
+  opacity: 0.6;
+  mix-blend-mode: overlay;
+  fill: url(#g5);
+}
+.s5 {
+  opacity: 0.6;
+  mix-blend-mode: overlay;
+  fill: url(#g6);
+}
+.s6 {
+  opacity: 0.6;
+  mix-blend-mode: overlay;
+  fill: url(#g7);
+}
+.s7 {
+  opacity: 0.6;
+  mix-blend-mode: overlay;
+  fill: url(#g8);
+}
+.s8 {
+  opacity: 0.6;
+  mix-blend-mode: overlay;
+  fill: url(#g9);
+}
+.s9 {
+  opacity: 0.6;
+  mix-blend-mode: overlay;
+  fill: url(#g10);
+}
+.s10 {
+  opacity: 0.9;
+  mix-blend-mode: overlay;
+  fill: url(#g11);
+}
+.s11 {
+  opacity: 0.6;
+  mix-blend-mode: overlay;
+  fill: url(#g12);
+}
+.s12 {
+  opacity: 0.6;
+  mix-blend-mode: overlay;
+  fill: url(#g13);
+}
+.s13 {
+  opacity: 0.6;
+  mix-blend-mode: overlay;
+  fill: url(#g14);
+}
+.s14 {
+  fill: url(#g15);
+}
+
+.s15 {
+  fill: url(#g16);
+  animation: move 5s linear infinite;
+}
+
+@keyframes move {
+  0% {
+    transform: translate(0, 0);
+  }
+  50% {
+    transform: translate(10px, 5px);
+  }
+  100% {
+    transform: translate(0, 0);
+  }
+}
+
+.s18 {
+  fill: url(#g19);
+  animation: move 5s linear infinite;
+}
+
+@keyframes move {
+  0% {
+    transform: translate(0, 0);
+  }
+  50% {
+    transform: translate(10px, 5px);
+  }
+  100% {
+    transform: translate(0, 0);
+  }
+}
+
+.s19 {
+  fill: url(#g20);
+  animation: move 5s linear infinite;
+}
+
+@keyframes move {
+  0% {
+    transform: translate(0, 0);
+  }
+  50% {
+    transform: translate(10px, 5px);
+  }
+  100% {
+    transform: translate(0, 0);
+  }
+}
+
+.s36 {
+  fill: url(#g37);
+  animation: move 5s linear infinite;
+}
+
+@keyframes move {
+  0% {
+    transform: translate(0, 0);
+  }
+  50% {
+    transform: translate(10px, 5px);
+  }
+  100% {
+    transform: translate(0, 0);
+  }
+}
+
+.s117 {
+  fill: url(#g118);
+  animation: move 5s linear infinite;
+}
+
+@keyframes move {
+  0% {
+    transform: translate(0, 0);
+  }
+  50% {
+    transform: translate(10px, 5px);
+  }
+  100% {
+    transform: translate(0, 0);
+  }
+}
+
+.s118 {
+  fill: url(#g119);
+  animation: move 5s linear infinite;
+}
+
+@keyframes move {
+  0% {
+    transform: translate(0, 0);
+  }
+  50% {
+    transform: translate(10px, 5px);
+  }
+  100% {
+    transform: translate(0, 0);
+  }
+}
+
+.s114 {
+  fill: url(#g115);
+  animation: move 5s linear infinite;
+}
+
+@keyframes move {
+  0% {
+    transform: translate(0, 0);
+  }
+  50% {
+    transform: translate(10px, 5px);
+  }
+  100% {
+    transform: translate(0, 0);
+  }
+}
+.s16 {
+  fill: url(#g17);
+}
+.s17 {
+  fill: url(#g18);
+}
+/* .s18 { fill: url(#g19) }  */
+/* .s19 { fill: url(#g20) }  */
+.s20 {
+  fill: url(#g21);
+}
+.s21 {
+  fill: url(#g22);
+}
+.s22 {
+  fill: url(#g23);
+}
+.s23 {
+  fill: url(#g24);
+}
+.s24 {
+  fill: url(#g25);
+}
+.s25 {
+  fill: url(#g26);
+}
+.s26 {
+  fill: url(#g27);
+}
+.s27 {
+  fill: url(#g28);
+}
+.s28 {
+  fill: url(#g29);
+}
+.s29 {
+  fill: url(#g30);
+}
+.s30 {
+  fill: url(#g31);
+}
+.s31 {
+  fill: url(#g32);
+}
+.s32 {
+  fill: url(#g33);
+}
+.s33 {
+  fill: url(#g34);
+}
+.s34 {
+  fill: url(#g35);
+}
+.s35 {
+  fill: url(#g36);
+}
+/* .s36 { fill: url(#g37) }  */
+.s37 {
+  fill: url(#g38);
+}
+.s38 {
+  fill: url(#g39);
+}
+.s39 {
+  fill: url(#g40);
+}
+.s40 {
+  fill: url(#g41);
+}
+.s41 {
+  fill: url(#g42);
+}
+.s42 {
+  fill: url(#g43);
+}
+.s43 {
+  fill: url(#g44);
+}
+.s44 {
+  fill: url(#g45);
+}
+.s45 {
+  fill: url(#g46);
+}
+.s46 {
+  fill: url(#g47);
+}
+.s47 {
+  fill: url(#g48);
+}
+.s48 {
+  fill: url(#g49);
+}
+.s49 {
+  fill: url(#g50);
+}
+.s50 {
+  fill: url(#g51);
+}
+.s51 {
+  fill: url(#g52);
+}
+.s52 {
+  fill: url(#g53);
+}
+.s53 {
+  fill: url(#g54);
+}
+.s54 {
+  fill: url(#g55);
+}
+.s55 {
+  fill: url(#g56);
+}
+
+.s56 {
+  fill: url(#g57);
+}
+.s57 {
+  fill: url(#g58);
+}
+.s58 {
+  fill: url(#g59);
+}
+.s59 {
+  fill: url(#g60);
+}
+.s60 {
+  fill: url(#g61);
+}
+.s61 {
+  fill: url(#g62);
+}
+.s62 {
+  fill: url(#g63);
+}
+.s63 {
+  fill: url(#g64);
+}
+.s64 {
+  fill: url(#g65);
+}
+.s65 {
+  fill: url(#g66);
+}
+.s66 {
+  fill: url(#g67);
+}
+.s67 {
+  fill: url(#g68);
+}
+.s68 {
+  fill: url(#g69);
+}
+.s69 {
+  fill: url(#g70);
+}
+.s70 {
+  fill: url(#g71);
+}
+.s71 {
+  fill: url(#g72);
+}
+.s72 {
+  fill: url(#g73);
+}
+.s73 {
+  fill: url(#g74);
+}
+.s74 {
+  fill: url(#g75);
+}
+.s75 {
+  fill: url(#g76);
+}
+.s76 {
+  fill: url(#g77);
+}
+.s77 {
+  fill: url(#g78);
+}
+.s78 {
+  fill: url(#g79);
+}
+.s79 {
+  fill: url(#g80);
+}
+.s80 {
+  fill: url(#g81);
+}
+.s81 {
+  fill: url(#g82);
+}
+.s82 {
+  fill: url(#g83);
+}
+.s83 {
+  fill: url(#g84);
+}
+.s84 {
+  fill: url(#g85);
+}
+.s85 {
+  fill: url(#g86);
+}
+.s86 {
+  fill: url(#g87);
+}
+.s87 {
+  fill: url(#g88);
+}
+.s88 {
+  fill: url(#g89);
+}
+.s89 {
+  fill: url(#g90);
+}
+.s90 {
+  fill: url(#g91);
+}
+.s91 {
+  fill: url(#g92);
+}
+.s92 {
+  fill: url(#g93);
+}
+.s93 {
+  fill: url(#g94);
+}
+.s94 {
+  fill: url(#g95);
+}
+.s95 {
+  fill: url(#g96);
+}
+.s96 {
+  fill: url(#g97);
+}
+.s97 {
+  fill: url(#g98);
+}
+.s98 {
+  fill: url(#g99);
+}
+.s99 {
+  fill: url(#g100);
+}
+.s100 {
+  fill: url(#g101);
+}
+.s101 {
+  fill: url(#g102);
+}
+.s102 {
+  fill: url(#g103);
+}
+.s103 {
+  fill: url(#g104);
+}
+.s104 {
+  fill: url(#g105);
+}
+.s105 {
+  fill: url(#g106);
+}
+.s106 {
+  fill: url(#g107);
+}
+.s107 {
+  fill: url(#g108);
+}
+.s108 {
+  fill: url(#g109);
+}
+.s109 {
+  fill: url(#g110);
+}
+.s110 {
+  fill: url(#g111);
+}
+.s111 {
+  fill: url(#g112);
+}
+.s112 {
+  fill: url(#g113);
+}
+.s113 {
+  fill: url(#g114);
+}
+/* .s114 { fill: url(#g115) }  */
+.s115 {
+  fill: url(#g116);
+}
+.s116 {
+  fill: url(#g117);
+}
+/* .s117 { fill: url(#g118) }  */
+/* .s118 { fill: url(#g119) }  */
+.s119 {
+  fill: url(#g120);
+}
+.s120 {
+  fill: url(#g121);
+}
+.s121 {
+  fill: url(#g122);
+}
+.s122 {
+  fill: url(#g123);
+}
+.s123 {
+  fill: url(#g124);
+}
+.s124 {
+  fill: url(#g125);
+}
+.s125 {
+  fill: url(#g126);
+}
+.s126 {
+  fill: url(#g127);
+}
+.s127 {
+  fill: url(#g128);
+}
+.s128 {
+  fill: url(#g129);
+}
+.s129 {
+  fill: url(#g130);
+}
+.s130 {
+  fill: url(#g131);
+}
+.s131 {
+  fill: url(#g132);
+}
+.s132 {
+  fill: url(#g133);
+}
+.s133 {
+  fill: url(#g134);
+}
+.s134 {
+  fill: url(#g135);
+}
+.s135 {
+  fill: url(#g136);
+}
+.s136 {
+  fill: url(#g137);
+}
+.s137 {
+  fill: url(#g138);
+}
+.s138 {
+  fill: url(#g139);
+}
+.s139 {
+  fill: url(#g140);
+}
+.s140 {
+  fill: url(#g141);
+}
+.s141 {
+  fill: url(#g142);
+}
+.s142 {
+  fill: url(#g143);
+}
+.s143 {
+  fill: url(#g144);
+}
+.s144 {
+  fill: url(#g145);
+}
+.s145 {
+  fill: url(#g146);
+}
+.s146 {
+  fill: url(#g147);
+}
+.s147 {
+  fill: url(#g148);
+}
+.s148 {
+  fill: url(#g149);
+}
+.s149 {
+  fill: url(#g150);
+}
+.s150 {
+  fill: url(#g151);
+}
+.s151 {
+  fill: url(#g152);
+}
+.s152 {
+  fill: url(#g153);
+}
+.s153 {
+  fill: url(#g154);
+}
+.s154 {
+  fill: url(#g155);
+}
+.s155 {
+  fill: url(#g156);
+}
+.s156 {
+  fill: url(#g157);
+}
+.s157 {
+  fill: url(#g158);
+}
+.s158 {
+  fill: url(#g159);
+}
+.s159 {
+  fill: url(#g160);
+}
+.s160 {
+  fill: url(#g161);
+}
+.s161 {
+  fill: url(#g162);
+}
+.s162 {
+  fill: url(#g163);
+}
+.s163 {
+  fill: url(#g164);
+}
+.s164 {
+  fill: url(#g165);
+}
+.s165 {
+  fill: url(#g166);
+}
+.s166 {
+  fill: url(#g167);
+}
+.s167 {
+  fill: url(#g168);
+}
+.s168 {
+  fill: url(#g169);
+}
+.s169 {
+  fill: url(#g170);
+}
+.s170 {
+  fill: url(#g171);
+}
+.s171 {
+  fill: url(#g172);
+}
+.s172 {
+  fill: url(#g173);
+}
+.s173 {
+  fill: url(#g174);
+}
+.s174 {
+  fill: url(#g175);
+}
+.s175 {
+  fill: url(#g176);
+}
+.s176 {
+  fill: url(#g177);
+}
+.s177 {
+  fill: url(#g178);
+}
+.s178 {
+  fill: url(#g179);
+}
+.s179 {
+  fill: url(#g180);
+}
+.s180 {
+  fill: url(#g181);
+}
+.s181 {
+  fill: url(#g182);
+}
+.s182 {
+  fill: url(#g183);
+}
+.s183 {
+  fill: url(#g184);
+}
+.s184 {
+  fill: url(#g185);
+}
+.s185 {
+  fill: url(#g186);
+}
+.s186 {
+  mix-blend-mode: overlay;
+  fill: #e6d2a8;
+}

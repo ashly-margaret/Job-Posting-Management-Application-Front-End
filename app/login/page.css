@@ -1,0 +1,8 @@
+.custom-class {
+  background-image: url("https://img.freepik.com/premium-vector/start-up-concept-aviator-rocket-man-with-jetpack-his-back-hand-drawing-vector-illustration-line-art-doodle-style_73637-1071.jpg?uid=R122134936&semt=ais_hybrid&w=740"),
+    url("https://img.freepik.com/free-vector/hand-drawn-stability-illustration_23-2150602854.jpg?uid=R122134936&w=740"); /* Use different images if needed */
+
+  background-position: top left, bottom right; /* First image top-left, second bottom-right */
+  background-repeat: no-repeat, no-repeat;
+  background-size: 300px 300px, 300px 300px; /* Set size of each image */
+}
