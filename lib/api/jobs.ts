@@ -1,10 +1,10 @@
 import { Job, CreateJobInput, UpdateJobInput } from "@/types/job";
 
 /**
- * Direct NestJS Backend API URL (http://localhost:5000)
+ * Direct NestJS Backend API URL (https://job-posting-management-application-back.onrender.com/)
  */
 const API_BASE_URL =
-  process.env.NEXT_PUBLIC_NEST_API_URL || "http://localhost:5000";
+  process.env.NEXT_PUBLIC_NEST_API_URL || "https://job-posting-management-application-back.onrender.com/";
 
 const getBaseUrl = (): string => API_BASE_URL;
 

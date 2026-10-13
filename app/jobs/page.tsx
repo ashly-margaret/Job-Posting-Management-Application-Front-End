@@ -96,7 +96,7 @@ export default function JobsPage() {
       const msg =
         err instanceof Error
           ? err.message
-          : "Unable to reach NestJS backend at http://localhost:5000";
+          : "Unable to reach NestJS backend at https://job-posting-management-application-back.onrender.com/";
       setError(msg);
     } finally {
       if (!quiet) setIsLoading(false);

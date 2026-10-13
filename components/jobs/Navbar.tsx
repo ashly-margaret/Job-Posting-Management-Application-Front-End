@@ -72,7 +72,7 @@ export function Navbar({ backendOnline = true }: { backendOnline?: boolean | nul
                   ? "bg-rose-50 text-rose-700 border-rose-200"
                   : "bg-slate-50 text-slate-600 border-slate-200"
               }`}
-              title="NestJS API running at http://localhost:5000"
+              title="NestJS API running at https://job-posting-management-application-back.onrender.com/"
             >
               <span className="relative flex h-2 w-2">
                 {backendOnline === true && (
